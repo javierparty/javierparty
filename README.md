@@ -39,5 +39,4 @@ dependencies.
 ## Connect
 
 [javierparty.com](https://javierparty.com) · 
-[LinkedIn](https://linkedin.com/in/jparty) · 
-contact@javierparty.com
+[LinkedIn](https://linkedin.com/in/jparty)
